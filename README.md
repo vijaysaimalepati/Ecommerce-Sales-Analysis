@@ -110,6 +110,10 @@ The interactive dashboard includes:
 -   Payment Mode distribution.
 -   Slicers for Date, State, and Category.
 
+### Dashboard Preview
+
+![E-Commerce Dashboard](Ecommerce_Dashboard.png)
+
 ## Key Findings
 
 -   The dataset records **437,771** in total sales and **36,963** in
